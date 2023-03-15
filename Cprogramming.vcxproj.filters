@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="addition.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="subtraction.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="multiplication.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="division.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="area_of_circle.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="use_of_operator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="positive_or_negative_using_ternary.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="voting_eligible_using_tenary.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="square_ofno_using_ternary.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="console_input_output.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="area_of rectangle.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="area_of_square.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="swap_number_with_3rd_variable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="minimum_maximum_number.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="even_or_odd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="profit_or_loss.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="simple_interest.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="equilateral_or_not.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="isosceles_triangle.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="digits_in_words.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Swap_without_3rd_variable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="nested_ifelse_marks.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="digits_in_words_using_switch.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="menuderiven_calculator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1_to_10_using_while.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Simple_interest_using_loop.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="even_or_odd_from_1to100.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pallindrome_or_not.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sum_of_1to10_numbers_using_for.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="even_or_odd_from_1to20_using_for.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="reverse_of_number.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="trace_output1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="trace_output2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="trace_output3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="trace_output4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="trace_output5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="trace_output6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="print_ascii_values.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="trace_output7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="accept_no_and_display_using_while.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="menudriven_using_do_while.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial_of_no.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="trace_output8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="simple_interest_using_function.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="addition_function.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fn_calling_with_returning.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fn_callingwith_parameter_and_returning.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="area_and_circumference_of_circle.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="swap_using_pointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial_using_recursion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="simple_interest(macro).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="area_of_rectangle(macro).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="local_and_global_variable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="static_variable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="extern_variable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="addition(header).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="extern_variable2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="simple_macro.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="macro_with_argument.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="conditional_compilation(if...endif).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="conditional_compilation(if..else..endif).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="conditional_compila tion(if..elif..else..endif).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="conditional_compilation(ifdef...else...endif).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="conditional_compilation(ifndef...else...endif).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="miscellaneous%28undef%29.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_accept_and_print_string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_dispaly_using_string_literal.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_accept_using_builtin_function.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_pointer_to_string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_length_of_string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_length_of_string_using_pointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_copy_one_to_another.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_copy_using_index.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_concatenate(builtin).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_concatenate_using_index.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_reverse_builtin_function.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_reverse_without_builtin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_compare_with_builtin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="comand_line_argument.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2Darray_accept_and_display.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string_compare_without_builtin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="area_of_circle_using_function.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2darray_accept_display_using_function.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2Darray_acccept_dispaly_using_pointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamic_memory_allocation_malloc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamic_memory_alloacation_calloc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array_of_pointers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_to_pointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DMA(string).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structure1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structure2_pointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structure3(multiple_variables).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structure(array).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_array2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="union.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="enum.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_bubble.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_selection.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_insertion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="add.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
